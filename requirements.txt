@@ -1,0 +1,6 @@
+requests==2.32.3
+selenium==4.28.1
+bs4==0.0.2
+webdriver-manager==4.0.2
+python-dotenv==1.0.1
+undetected_chromedriver==3.5.5
